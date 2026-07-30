@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Abdelrahman Khalil
 
-<!--
-**1-abdelrahman-khalil-1/1-abdelrahman-khalil-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer
 
-Here are some ideas to get you started:
+Currently learning backend development with Node.js while building cross-platform mobile applications with Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+`Flutter` `Dart` `Riverpod` `Firebase` `SQLite` `Node.js` `Express.js` `Prisma` `MySQL` `Git`
+
+### Find me
+
+- LinkedIn: [abdo-khalil](https://www.linkedin.com/in/abdo-khalil-0ab3b2261/)
